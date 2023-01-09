@@ -6,10 +6,10 @@ error_reporting(0);
 // config.php
 
 // MySQL veritabanına bağlanın
-$host = "212.107.17.103";
-$user = "u686582061_lib";
-$password = "1a2b3c4D+";
-$dbname = "u686582061_library";
+$host = "";
+$user = "";
+$password = "";
+$dbname = "";
 
 $conn = mysqli_connect($host, $user, $password, $dbname);
 
